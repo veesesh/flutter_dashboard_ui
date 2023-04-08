@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hp\StudioProjects\flutter_dashboard_ui_app\build\windows\CMakeFiles\05ab9d3c4849176cd118968a92bbe814\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2654030F-927C-3BD2-A13C-8E869EBFFF13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
